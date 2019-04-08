@@ -1,0 +1,7 @@
+C:\Users\aman.rathee\Desktop\My Stuff\Singleton\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\aman.rathee\Desktop\My Stuff\Singleton\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\aman.rathee\Desktop\My Stuff\Singleton\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\aman.rathee\Desktop\My Stuff\Singleton\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\aman.rathee\Desktop\My Stuff\Singleton\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\aman.rathee\Desktop\My Stuff\Singleton\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\aman.rathee\Desktop\My Stuff\Singleton\FactoryPattern\obj\Debug\FactoryPattern.pdb
